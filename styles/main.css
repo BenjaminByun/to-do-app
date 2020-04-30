@@ -1,0 +1,23 @@
+
+
+h1 {
+  font-size: 4em;
+  margin-bottom: 100px;
+}
+
+.demo-layout-transparent {
+  background: url('../assets/demos/transparent.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  color: white;
+}
+
+#addToDoForm {
+  margin-left: 90px;
+  margin-top: 20px;
+}
+
+.mdl-button {
+  margin-left: 20px;
+}
